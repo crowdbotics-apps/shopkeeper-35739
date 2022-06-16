@@ -20,6 +20,7 @@
     "@screens/forgot-password": "file:./screens/forgot-password/",
     "@screens/signup": "file:./screens/signup/",
     "@screens/user-subscribed": "file:./screens/user-subscribed/",
+    "@screens/welcome": "file:./screens/welcome/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-native": "0.64.0",
